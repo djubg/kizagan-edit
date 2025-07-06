@@ -3,4 +3,6 @@ il faut installer les requirements
 
 est lancai kizagan.py
 
+tous se que vous aller faire se n'ait pas ma reponsabiliter
+
 Merci
